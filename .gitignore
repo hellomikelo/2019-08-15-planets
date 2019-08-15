@@ -1,0 +1,3 @@
+*.dat
+pictures/*
+!a.dat # negates this particular file when ignoring
